@@ -1,0 +1,1 @@
+//Write a JAVA program to delete an element from an array at specified position. 
